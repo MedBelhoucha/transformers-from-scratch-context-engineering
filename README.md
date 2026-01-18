@@ -24,3 +24,7 @@ Allowed:
 python encoder_only_classifier.py
 python decoder_only_lm.py
 python encoder_decoder_seq2seq.py
+
+## Reproducibility
+The prompt/context used to generate the code is available in **PROMPT.md**.
+
